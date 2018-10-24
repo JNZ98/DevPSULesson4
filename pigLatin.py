@@ -1,3 +1,4 @@
+#grade this python file, not .cpp
 # convert lines (lowercase) in english to pig latin
 # takes string of chars rather than reading file (not very familiar with working with files in python)
 def PigLatin(string):
