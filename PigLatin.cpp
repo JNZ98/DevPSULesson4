@@ -1,4 +1,4 @@
-/*DONT GRADE THIS ONE FOR CORRECTNESS PLS!!--WAS NOT ABLE TO RUN EXNENSIVE TESTS 
+/*DONT GRADE THIS ONE FOR CORRECTNESS PLS!!--WAS NOT ABLE TO RUN EXNENSIVE TESTS, PigLatin.py is working fine
 referenced geeksforgeeks.org*/
 #include <iostream>
 #include <iomanip>
