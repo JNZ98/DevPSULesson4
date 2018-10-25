@@ -1,5 +1,5 @@
 
-Pig Latin
+Pig Latin  
 ----
 PigLatin.py has correct outputs. However, PigLatin.cpp may have errors, I did not debug thoroughly, just practicing C++ (if grading use python file, thanks).
 ---
